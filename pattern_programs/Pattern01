@@ -1,0 +1,28 @@
+package pattern_programs;
+
+public class Pattern01 {
+	public static void main(String[] args) {
+		
+		/*  c1 c2 c3 c4 c5
+		 
+		r1	*  *  *  *  *   
+		r2	*  *  *  *  *   
+		r3	*  *  *  *  *
+		r4	*  *  *  *  *s
+		r5	*  *  *  *  *
+		 
+		 */
+		
+		for(int row=1;row<=5;row++) {
+			
+			for(int col=1;col<=5;col++) {
+				
+				System.out.print("*"+" ");
+				
+			}
+			
+			System.out.println();
+		}
+		
+	}
+}
