@@ -1,4 +1,4 @@
-package 01_Basics;
+package P01_Numbers;
 public class EvenOrOdd {    
     public static void main(String[] args) {
         int number = 10; // You can change this number to test with different values

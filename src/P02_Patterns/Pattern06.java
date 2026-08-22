@@ -1,4 +1,4 @@
-package pattern_programs;
+package P02_Patterns;
 
 public class Pattern06 {
 	public static void main(String[] args) {
